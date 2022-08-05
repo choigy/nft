@@ -1,0 +1,12 @@
+klaynft/node_modules
+klaynft/public
+
+klaynft/.gitignore
+klaynft/README.md
+klaynft/package-lock.json
+klaynft/package.json
+klaynft/yarn-error.log
+klaynft/yarn.lock
+
+klaynft/logo.svg
+klaynft/App.css
