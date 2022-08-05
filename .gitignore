@@ -1,12 +1,5 @@
-klaynft/node_modules
-klaynft/public
+klaynft/node_modules, public
 
-klaynft/.gitignore
-klaynft/README.md
-klaynft/package-lock.json
-klaynft/package.json
-klaynft/yarn-error.log
-klaynft/yarn.lock
+klaynft/.gitignore, README.md, package-lock.json, package.json, yarn-error.log, yarn.lock
 
-klaynft/logo.svg
-klaynft/App.css
+klaynft/src/logo.svg, App.css
