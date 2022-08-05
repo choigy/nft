@@ -2,4 +2,4 @@ klaynft/node_modules, public
 
 klaynft/.gitignore, README.md, package-lock.json, package.json, yarn-error.log, yarn.lock
 
-klaynft/src/logo.svg, App.css
+klaynft/src/logo.svg, App.css, setupTests.js
